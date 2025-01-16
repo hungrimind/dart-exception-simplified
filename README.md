@@ -1,4 +1,4 @@
-# Clean Exception Comments
+# Clean Exception Snippets
 
 ## Overview
 
