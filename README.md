@@ -41,3 +41,9 @@ When defining exceptions in your code, it's essential to document the exceptions
   "description": "Snippet for creating a custom exception class that implements Exception."
 }
 ```
+
+## Get Our Course
+The most addictive way to learn Flutter -> [Best Flutter Course](https://www.hungrimind.com/learn/flutter)
+
+## Show Some Love
+If you found these snippets useful, please consider starring this repository ⭐.
