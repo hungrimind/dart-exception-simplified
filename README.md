@@ -1,4 +1,4 @@
-# Clean Exception Snippets
+# Valuable snippets for Exceptions in Dart/Flutter
 
 ## Overview
 
